@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- 香蕉
+- 炸串
+- 凉皮
+- 千里香混沌
